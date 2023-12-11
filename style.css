@@ -1,0 +1,20 @@
+.site-header{
+    text-align: center;
+    background-color: black;
+}
+
+.site-header a{
+    color: red;
+}
+p,
+h1 {
+    color: red;
+}
+
+.color-text {
+    color: yellow;
+}
+#paragraph {
+    color: blue;
+}
+
